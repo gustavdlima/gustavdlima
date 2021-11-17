@@ -7,15 +7,14 @@
 
 - 💻 Bolsista na @42saopaulo [42sp.org.br](42sp.org.br)
 
-- <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1510864531/3208/gandalf_parrot.gif?1510864531" width="20vw"/> Atualmente estududando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.**
+- 📜 CV [https://url.gratis/GFn7q6](https://drive.google.com/file/d/1K5jePbS_LurkxSrbMzj95H1sBe9pPp85/view?usp=sharing)
 
 - 📫 Contato **gustavdlima@gmail.com**
 
-- 📜 CV [https://url.gratis/GFn7q6](https://drive.google.com/file/d/1K5jePbS_LurkxSrbMzj95H1sBe9pPp85/view?usp=sharing)
-
+- <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1510864531/3208/gandalf_parrot.gif?1510864531" width="20vw"/> Atualmente estududando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.**
 
 <h4 align="left">
-	Connect with me:
+	Me ache aqui:
 </h4>
 
 <p align="left">
@@ -27,7 +26,7 @@
 
 <p>
 <h4 align="left">
-	Languages and Tools:
+	Linguagens e ferramentas:
 </h4>
 </p>
 
