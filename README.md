@@ -22,9 +22,9 @@
 </h4>
 
 <p align="left">
-	<a href="https://linkedin.com/in/gustavmartins" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/49/49656.png" alt="gustavmartins" height="30" width="30" />
+	<a href="https://linkedin.com/in/gustavmartins" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="gustavmartins" height="30" width="30" />
 	</a>
-	<a href="https://instagram.com/gstvmrtns" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="gstvmrtns" height="30" width="30" />
+	<a href="https://instagram.com/gstvmrtns" target="blank"><img align="center" src="https://i0.wp.com/trucao.com.br/wp-content/uploads/2018/07/instagram-logo.png?fit=1200%2C1200&ssl=1" alt="gstvmrtns" height="30" width="30" />
 	</a>
 </p>
 
