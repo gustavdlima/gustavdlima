@@ -11,7 +11,7 @@
 
 - 📫 Contato **gustavdlima@gmail.com**
 
-- <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1510864531/3208/gandalf_parrot.gif?1510864531" width="20vw"/> Atualmente estududando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.**
+- <img alt="GIF" src="https://emojis.slackmojis.com/emojis/images/1510864531/3208/gandalf_parrot.gif?1510864531" width="20vw"/> Atualmente estudando **Engenharia de Software e Análise e Desenvolvimento de Sistemas.**
 
 <h4 align="left">
 	Me ache aqui:
