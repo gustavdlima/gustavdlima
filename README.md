@@ -1,7 +1,6 @@
 
 <h1>
 	Olá, gstv aqui!
-	<img alt="GIF" width="370px" align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </h1>
 
 
