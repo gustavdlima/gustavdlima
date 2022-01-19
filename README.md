@@ -7,7 +7,7 @@
 
 - 💻 Bolsista na @42saopaulo [42sp.org.br](42sp.org.br)
 
-- 📜 CV [https://url.gratis/GFn7q6](https://drive.google.com/file/d/1K5jePbS_LurkxSrbMzj95H1sBe9pPp85/view?usp=sharing)
+- 📜 CV [https://drive.google.com/file/d/1XJjAg3T2lcr2o6Da-nBtM_Hisfym_5o6/view?usp=sharing](https://drive.google.com/file/d/1XJjAg3T2lcr2o6Da-nBtM_Hisfym_5o6/view?usp=sharing)
 
 - 📫 Contato **gustavdlima@gmail.com**
 
