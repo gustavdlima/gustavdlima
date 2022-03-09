@@ -6,7 +6,7 @@
 
 - 💻 Bolsista na <a href="https://www.42sp.org.br/">@42saopaulo</a>
 
-- 📜 <a href="https://drive.google.com/file/d/1XJjAg3T2lcr2o6Da-nBtM_Hisfym_5o6/view?usp=sharing">CV</a>
+- 📜 <a href="https://drive.google.com/file/d/1NAEk410BaUEJKNHo7DTEbl59TEQyZ7OA/view?usp=sharing">CV</a>
 
 - 📫 Contato **gustavdlima@gmail.com**
 
