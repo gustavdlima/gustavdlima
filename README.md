@@ -4,7 +4,7 @@
 </h1>
 
 
-- 💻 Bolsista na <a href="https://www.42sp.org.br/">@42saopaulo</a>
+- 💻 Estudante da <a href="https://www.42sp.org.br/">@42saopaulo</a>
 
 - 📜 <a href="https://drive.google.com/file/d/1xGbq6Y6T6OGT4hhS6gWLomCTXeFqAiuF/view?usp=share_link">CV</a>
 
