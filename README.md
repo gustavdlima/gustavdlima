@@ -1,7 +1,5 @@
 - 💻 Human Coder pela <a href="https://www.42sp.org.br/">@42saopaulo</a>
 
-- 📫 Contato **gustavdlima@gmail.com**
-
 - 👨‍💻 Desenvolvedor Full-Stack PHP | Javascript | Laravel | Vue.js
 
 <h4 align="left">
