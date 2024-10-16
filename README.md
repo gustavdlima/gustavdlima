@@ -1,4 +1,4 @@
-- 💻 Human Coder pela <a href="https://www.42sp.org.br/">@42saopaulo</a>
+- 💻 Alumni <a href="https://www.42sp.org.br/">@42saopaulo</a>
 
 - 👨‍💻 Desenvolvedor Full-Stack PHP | Javascript | Laravel | Vue.js
 
